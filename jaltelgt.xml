@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ROM>
+  <RomName>MK 71.2- jaltelgt</RomName>
+  <VersionName>MK71.2-jaltelgt-201708131746-UNOFFICIAL.zip</VersionName>
+  <VersionNumber type="integer">20170813</VersionNumber>
+  <DirectUrl nil="true" />
+  <HttpUrl>https://www.androidfilehost.com/?fid=817550096634792397</HttpUrl>
+  <Android>7.1.2</Android>
+  <CheckMD5 nil="true"/>
+  <CheckMD5>b5c23fd09e1bb5ca75ca08e3d7d511fa</CheckMD5>
+  <FileSize type="integer">1</FileSize>
+  <Developer>Erag0n</Developer>
+  <WebsiteURL>https://forum.xda-developers.com/galaxy-s4/i9500-develop/unofficial-mokee-source-mk71-2-t3640978</WebsiteURL>
+  <Changelog>Testing</Changelog>
+</ROM>
