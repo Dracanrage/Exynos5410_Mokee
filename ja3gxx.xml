@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <ROM>
   <RomName>MK71.2-ja3gxx</RomName>
-  <VersionName>OTA-MK71.2-ja3gxx-201708201312-201708271011-UNOFFICIAL.zip</VersionName>
-  <VersionNumber type="integer">20170827</VersionNumber>
+  <VersionName>OTA-MK71.2-ja3gxx-201708271011-201708301816-UNOFFICIAL.zip</VersionName>
+  <VersionNumber type="integer">20170830</VersionNumber>
   <DirectUrl nil="true" />
-  <HttpUrl>https://www.androidfilehost.com/?fid=961840155545591254</HttpUrl>
+  <HttpUrl>https://www.androidfilehost.com/?fid=889764386195926293</HttpUrl>
   <Android>7.1.2</Android>
   <CheckMD5 nil="true"/>
-  <CheckMD5>73fa02ea02479f0c415e24911cc56999</CheckMD5>
+  <CheckMD5>7e2cba6887d12218449ca894a211e46e</CheckMD5>
   <FileSize type="integer">1</FileSize>
   <Developer>Erag0n</Developer>
   <WebsiteURL>https://forum.xda-developers.com/galaxy-s4/i9500-develop/unofficial-mokee-source-mk71-2-t3640978</WebsiteURL>
-  <Changelog>Device Source updated,PowerHAL added,odexded,improve boot speed,Blur effect added and etc.</Changelog>
+  <Changelog>Source Update,Bug fix.</Changelog>
 </ROM>
