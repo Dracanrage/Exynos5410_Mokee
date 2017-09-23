@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <ROM>
   <RomName>MK71.2-ja3gxx</RomName>
-  <VersionName>OTA-MK71.2-ja3gxx-201709091229-201709151307-UNOFFICIAL.zip</VersionName>
-  <VersionNumber type="integer">20170915</VersionNumber>
+  <VersionName>OTA-MK71.2-ja3gxx-201709151307-201709231300-UNOFFICIAL.zip</VersionName>
+  <VersionNumber type="integer">20170923</VersionNumber>
   <DirectUrl nil="true" />
-  <HttpUrl>https://www.androidfilehost.com/?fid=88976438619593031</HttpUrl>
+  <HttpUrl>https://www.androidfilehost.com/?fid=745425885120764862</HttpUrl>
   <Android>7.1.2</Android>
   <CheckMD5 nil="true"/>
-  <CheckMD5>c0c1bc4d6d75e6774d6579bf2db618bf</CheckMD5>
+  <CheckMD5>b334526c4f46435bd6df5028ed5e95a1</CheckMD5>
   <FileSize type="integer">1</FileSize>
   <Developer>Erag0n</Developer>
   <WebsiteURL>https://forum.xda-developers.com/galaxy-s4/i9500-develop/unofficial-mokee-source-mk71-2-t3640978</WebsiteURL>
