@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <ROM>
   <RomName>MK71.2-ja3gxx</RomName>
-  <VersionName>MK71.2-ja3gxx-201710131915-UNOFFICIAL.zip</VersionName>
-  <VersionNumber type="integer">20171013</VersionNumber>
+  <VersionName>MK71.2-ja3gxx-201806201906-UNOFFICIAL.zip</VersionName>
+  <VersionNumber type="integer">20180620</VersionNumber>
   <DirectUrl nil="true" />
-  <HttpUrl>https://www.androidfilehost.com/?fid=673791459329053171</HttpUrl>
+  <HttpUrl>https://drive.google.com/file/d/1npVwVg7FCQnLkxqMgyAD4mkmpJNWaJE3/view?usp=drivesdk</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5 nil="true"/>
-  <CheckMD5>bc80a18af9c8ff56fee2b6d2e1b1c6fa</CheckMD5>
-  <FileSize type="integer">1</FileSize>
+  <CheckMD5 nil="false"/>
+  <CheckMD5></CheckMD5>
+  <FileSize type="integer">655,115,519</FileSize>
   <Developer>Erag0n</Developer>
   <WebsiteURL>https://forum.xda-developers.com/galaxy-s4/i9500-develop/unofficial-mokee-source-mk71-2-t3640978</WebsiteURL>
-  <Changelog>Source update and bug fix.</Changelog>
+  <Changelog>Source update and bug fix.A big change.</Changelog>
 </ROM>
