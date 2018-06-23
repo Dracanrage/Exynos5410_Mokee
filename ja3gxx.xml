@@ -6,10 +6,22 @@
   <DirectUrl nil="true" />
   <HttpUrl>https://drive.google.com/file/d/19Qur2Sx2gKzKASNNZ9neBReykVJ5Zymw/view?usp=drivesdk</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5 nil="false"/>
-  <CheckMD5></CheckMD5>
+  <CheckMD5 nil="true"/>
+  <CheckMD5>9d71642354805714b24bb1c20c902db0</CheckMD5>
   <FileSize type="integer">455,691,710</FileSize>
   <Developer>Erag0n</Developer>
   <WebsiteURL>https://forum.xda-developers.com/galaxy-s4/i9500-develop/unofficial-mokee-source-mk71-2-t3640978</WebsiteURL>
-  <Changelog>Ambient Mode and SamsungDoze added.Audio improved.</Changelog>
+  <Changelog>1.ConsumerIR Enabled
+2.kernel update to 3.4.113
+3.CPU speed unlocked, from 100 mhz to 2000 MHz.
+4.brightness improved.
+5.ODEX enabled to speed up system.
+6.Samsung Gralloc enabled
+7.Scaler Enabled.
+8.Advanced Low power audio support.
+9.charger enhanced.
+10.Battery life hugely improved.
+11.more mokee stuff added.
+12.Doze performance improved.
+13.Sdcardfs enabled.</Changelog>
 </ROM>
